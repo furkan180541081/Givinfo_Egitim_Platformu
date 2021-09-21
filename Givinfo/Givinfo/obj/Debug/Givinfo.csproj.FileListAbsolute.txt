@@ -1,0 +1,70 @@
+c:\users\furka\documents\visual studio 2013\Projects\Givinfo\Givinfo\bin\Debug\Givinfo.exe.config
+c:\users\furka\documents\visual studio 2013\Projects\Givinfo\Givinfo\bin\Debug\Givinfo.exe
+c:\users\furka\documents\visual studio 2013\Projects\Givinfo\Givinfo\bin\Debug\Givinfo.pdb
+c:\users\furka\documents\visual studio 2013\Projects\Givinfo\Givinfo\obj\Debug\Givinfo.csprojResolveAssemblyReference.cache
+c:\users\furka\documents\visual studio 2013\Projects\Givinfo\Givinfo\obj\Debug\Givinfo.giris.resources
+c:\users\furka\documents\visual studio 2013\Projects\Givinfo\Givinfo\obj\Debug\Givinfo.Properties.Resources.resources
+c:\users\furka\documents\visual studio 2013\Projects\Givinfo\Givinfo\obj\Debug\Givinfo.csproj.GenerateResource.Cache
+c:\users\furka\documents\visual studio 2013\Projects\Givinfo\Givinfo\obj\Debug\Givinfo.exe
+c:\users\furka\documents\visual studio 2013\Projects\Givinfo\Givinfo\obj\Debug\Givinfo.pdb
+C:\Users\furka\documents\visual studio 2013\Projects\Givinfo\Givinfo\obj\Debug\Givinfo.kayitol.resources
+C:\Users\furka\documents\visual studio 2013\Projects\Givinfo\Givinfo\obj\Debug\Givinfo.sifreyenile.resources
+C:\Users\furka\Documents\Visual Studio 2013\Projects\Givinfo\Givinfo\obj\Debug\Givinfo.kullaniciGiris.resources
+C:\Users\furka\Documents\Visual Studio 2013\Projects\Givinfo\Givinfo\obj\Debug\Givinfo.adminGiris.resources
+C:\Users\furka\documents\visual studio 2013\Projects\Givinfo\Givinfo\obj\Debug\Givinfo.videoForm.resources
+C:\Users\furka\documents\visual studio 2013\Projects\Givinfo\Givinfo\obj\Debug\Givinfo.mesajForm.resources
+C:\Users\furka\documents\visual studio 2013\Projects\Givinfo\Givinfo\obj\Debug\Givinfo.kullaniciForm.resources
+C:\Users\furka\documents\visual studio 2013\Projects\Givinfo\Givinfo\obj\Debug\Givinfo.bilgiForm.resources
+C:\Users\furka\documents\visual studio 2013\Projects\Givinfo\Givinfo\obj\Debug\Givinfo.oyunForm.resources
+C:\Users\furka\documents\visual studio 2013\Projects\Givinfo\Givinfo\obj\Debug\Givinfo.kitapForm.resources
+C:\Users\furka\documents\visual studio 2013\Projects\Givinfo\Givinfo\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\furka\documents\visual studio 2013\Projects\Givinfo\Givinfo\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\furka\documents\visual studio 2013\Projects\Givinfo\Givinfo\obj\Debug\Givinfo.csproj.ResolveComReference.cache
+C:\Users\furka\documents\visual studio 2013\Projects\Givinfo\Givinfo\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\furka\documents\visual studio 2013\Projects\Givinfo\Givinfo\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\furka\documents\visual studio 2013\Projects\Givinfo\Givinfo\bin\Debug\Interop.WMPLib.dll
+C:\Users\furka\documents\visual studio 2013\Projects\Givinfo\Givinfo\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\furka\documents\visual studio 2013\Projects\Givinfo\Givinfo\obj\Debug\Interop.WMPLib.dll
+C:\Users\furka\documents\visual studio 2013\Projects\Givinfo\Givinfo\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\furka\documents\visual studio 2013\Projects\Givinfo\Givinfo\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\furka\documents\visual studio 2013\Projects\Givinfo\Givinfo\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\furka\documents\visual studio 2013\Projects\Givinfo\Givinfo\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\furka\documents\visual studio 2013\Projects\Givinfo\Givinfo\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\furka\Documents\Visual Studio 2013\Projects\Givinfo\Givinfo\obj\Debug\Givinfo.Form1.resources
+C:\Users\furka\Documents\Visual Studio 2013\Projects\Givinfo\Givinfo\obj\Debug\Givinfo.Form2.resources
+C:\Users\furka\Documents\Visual Studio 2013\Projects\Givinfo\Givinfo\obj\Debug\Givinfo.Form3.resources
+C:\Users\furka\Desktop\Givinfo\Givinfo\bin\Debug\Givinfo.exe.config
+C:\Users\furka\Desktop\Givinfo\Givinfo\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\furka\Desktop\Givinfo\Givinfo\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\furka\Desktop\Givinfo\Givinfo\obj\Debug\Interop.WMPLib.dll
+C:\Users\furka\Desktop\Givinfo\Givinfo\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\furka\Desktop\Givinfo\Givinfo\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\furka\Desktop\Givinfo\Givinfo\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\furka\Desktop\Givinfo\Givinfo\obj\Debug\Givinfo.csproj.ResolveComReference.cache
+C:\Users\furka\Desktop\Givinfo\Givinfo\obj\Debug\Givinfo.exe
+C:\Users\furka\Desktop\Givinfo\Givinfo\obj\Debug\Givinfo.pdb
+C:\Users\furka\Desktop\Givinfo\Givinfo\bin\Debug\Givinfo.exe
+C:\Users\furka\Desktop\Givinfo\Givinfo\bin\Debug\Givinfo.pdb
+C:\Users\furka\Desktop\Givinfo\Givinfo\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\furka\Desktop\Givinfo\Givinfo\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\furka\Desktop\Givinfo\Givinfo\bin\Debug\Interop.WMPLib.dll
+C:\Users\furka\Desktop\Givinfo\Givinfo\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\furka\Desktop\Givinfo\Givinfo\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\furka\Desktop\Givinfo\Givinfo\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\furka\Desktop\Givinfo\Givinfo\obj\Debug\Givinfo.csprojResolveAssemblyReference.cache
+C:\Users\furka\Desktop\Givinfo\Givinfo\obj\Debug\Givinfo.Form1.resources
+C:\Users\furka\Desktop\Givinfo\Givinfo\obj\Debug\Givinfo.Form2.resources
+C:\Users\furka\Desktop\Givinfo\Givinfo\obj\Debug\Givinfo.Form3.resources
+C:\Users\furka\Desktop\Givinfo\Givinfo\obj\Debug\Givinfo.giris.resources
+C:\Users\furka\Desktop\Givinfo\Givinfo\obj\Debug\Givinfo.mesajForm.resources
+C:\Users\furka\Desktop\Givinfo\Givinfo\obj\Debug\Givinfo.kullaniciForm.resources
+C:\Users\furka\Desktop\Givinfo\Givinfo\obj\Debug\Givinfo.kayitol.resources
+C:\Users\furka\Desktop\Givinfo\Givinfo\obj\Debug\Givinfo.sifreYenile.resources
+C:\Users\furka\Desktop\Givinfo\Givinfo\obj\Debug\Givinfo.kullaniciGiris.resources
+C:\Users\furka\Desktop\Givinfo\Givinfo\obj\Debug\Givinfo.adminGiris.resources
+C:\Users\furka\Desktop\Givinfo\Givinfo\obj\Debug\Givinfo.videoForm.resources
+C:\Users\furka\Desktop\Givinfo\Givinfo\obj\Debug\Givinfo.bilgiForm.resources
+C:\Users\furka\Desktop\Givinfo\Givinfo\obj\Debug\Givinfo.oyunForm.resources
+C:\Users\furka\Desktop\Givinfo\Givinfo\obj\Debug\Givinfo.kitapForm.resources
+C:\Users\furka\Desktop\Givinfo\Givinfo\obj\Debug\Givinfo.Properties.Resources.resources
+C:\Users\furka\Desktop\Givinfo\Givinfo\obj\Debug\Givinfo.csproj.GenerateResource.Cache
